@@ -1,0 +1,22 @@
+@relation weather.symbolic-weka.filters.unsupervised.attribute.Remove-R3
+
+@attribute outlook {sunny,overcast,rainy}
+@attribute temperature {hot,mild,cool}
+@attribute windy {TRUE,FALSE}
+@attribute play {yes,no}
+
+@data
+sunny,hot,FALSE,no
+sunny,hot,TRUE,no
+overcast,hot,FALSE,yes
+rainy,mild,FALSE,yes
+rainy,cool,FALSE,yes
+rainy,cool,TRUE,no
+overcast,cool,TRUE,yes
+sunny,mild,FALSE,no
+sunny,cool,FALSE,yes
+rainy,mild,FALSE,yes
+sunny,mild,TRUE,yes
+overcast,mild,TRUE,yes
+overcast,hot,FALSE,yes
+rainy,mild,TRUE,no

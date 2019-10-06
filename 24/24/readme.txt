@@ -1,0 +1,1 @@
+﻿Bài nộp có bao gồm một số file .csv không liên quan đến yêu cầu để test cho phần 2.2.1: nz_weather.csv, school_earnings.csv, styled-line.csv.
